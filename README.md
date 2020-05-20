@@ -1,0 +1,1 @@
+### My Candy Ratings - Setting Up MongoDB Atlas
