@@ -9,7 +9,7 @@ const body_parser = require('body-parser');
 const mongodb = require('mongodb');
 const dotenv = require('dotenv').config();
 
-const PORT = process.env.PORT || 4000; // 3000;
+const PORT = process.env.PORT || 3000;
 const app = express();
 // Set the View Engine
 app.set('view engine', 'ejs');
