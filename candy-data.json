@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5ec4681ec0da32b71cfac17b"
+  },
+  "name": "Skittles",
+  "rating": 7
+},{
+  "_id": {
+    "$oid": "5ec46828c0da32b71cfac17c"
+  },
+  "name": "Snickers",
+  "rating": 3
+},{
+  "_id": {
+    "$oid": "5ec4682fc0da32b71cfac17d"
+  },
+  "name": "Kit Kat",
+  "rating": 10
+}]
